@@ -1,0 +1,4 @@
+python segregate_data.py meta_reviews_Automotive
+python segregate_data.py meta_reviews_Musical_Instruments
+python segregate_data.py meta_reviews_Sports_and_Outdoors
+python segregate_data.py meta_reviews_Video_Games
